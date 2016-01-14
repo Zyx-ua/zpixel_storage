@@ -1,1 +1,1 @@
-"# zpixel_storage" 
+Zpixel device firmware storage
